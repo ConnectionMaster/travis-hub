@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/AVGTechnologies/travis-core.git
-  revision: bf66efe7cdad8619ccfb685b462df708466e451f
+  revision: e561e19d2641ae8afb86504d773a12bf2efcc964
   specs:
     travis-core (0.0.1)
       actionmailer (~> 3.2.19)
